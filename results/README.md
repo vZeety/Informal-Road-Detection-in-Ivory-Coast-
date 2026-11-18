@@ -1,0 +1,1 @@
+Unzip final_results.zip (downloaded by Final_Experiments.ipynb) here. It contains every result file behind the charts, run configs (runs/*.json), training logs (runs/*_trainlog.csv) and environment.json.

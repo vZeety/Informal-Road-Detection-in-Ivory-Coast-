@@ -1,0 +1,9 @@
+torch
+segmentation-models-pytorch
+tifffile
+scikit-image
+scipy
+numpy
+pandas
+matplotlib
+openpyxl
